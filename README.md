@@ -66,3 +66,30 @@
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=reza675&theme=algolia" />
 </div>
 
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> For More Information, Please Check Out or Connect Me Via<p align="center">
+<p align="center">
+  <a href="mailto:reza58912@gmail.com" >
+    <img align="center" alt="reza675 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/reza.r.putra.12764/" target="_blank">
+      <img align="center" alt="reza675 | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://www.instagram.com/_rerap/" target="_blank">
+    <img align="center" alt="reza675 | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="https://profile-summary-for-github.herokuapp.com/user/reza675" target="_blank">
+    <img align="center" alt="reza675 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+  </a> &nbsp;&nbsp;
+  <a href="https://discord.com/users/528096090080411660" target="_blank">
+    <img align="center" alt="reza675 | Discord" width="80px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" />
+  </a>
+<p> 
+
+<div align="center">
+  Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2025 Reza Rasendriya Adi Putra
+</div>
+
